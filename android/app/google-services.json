@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "795941095154",
+    "project_id": "iteeha-7a6b7",
+    "storage_bucket": "iteeha-7a6b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795941095154:android:57d85dcf62c744fd9db26b",
+        "android_client_info": {
+          "package_name": "com.iteeha.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRhbbwt2rdqnp6o0PZtpv_aQMzGoI7EUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795941095154:android:12a43824e26197f39db26b",
+        "android_client_info": {
+          "package_name": "com.iteeha.ne"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRhbbwt2rdqnp6o0PZtpv_aQMzGoI7EUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
